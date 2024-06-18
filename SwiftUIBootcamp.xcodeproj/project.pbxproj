@@ -14,6 +14,9 @@
 		4FB6E1302C1EC44500F62070 /* SwiftUIBootcampTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FB6E12F2C1EC44500F62070 /* SwiftUIBootcampTests.swift */; };
 		4FB6E13A2C1EC44600F62070 /* SwiftUIBootcampUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FB6E1392C1EC44600F62070 /* SwiftUIBootcampUITests.swift */; };
 		4FB6E13C2C1EC44600F62070 /* SwiftUIBootcampUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FB6E13B2C1EC44600F62070 /* SwiftUIBootcampUITestsLaunchTests.swift */; };
+		4FB6E14B2C1EC48900F62070 /* TextBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FB6E14A2C1EC48200F62070 /* TextBootcamp.swift */; };
+		4FB6E14F2C1ECBFD00F62070 /* ShapesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FB6E14E2C1ECBFD00F62070 /* ShapesBootcamp.swift */; };
+		4FB6E1952C21BAE300F62070 /* ColorsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FB6E1942C21BAE300F62070 /* ColorsBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +47,9 @@
 		4FB6E1352C1EC44500F62070 /* SwiftUIBootcampUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftUIBootcampUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4FB6E1392C1EC44600F62070 /* SwiftUIBootcampUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIBootcampUITests.swift; sourceTree = "<group>"; };
 		4FB6E13B2C1EC44600F62070 /* SwiftUIBootcampUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIBootcampUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		4FB6E14A2C1EC48200F62070 /* TextBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextBootcamp.swift; sourceTree = "<group>"; };
+		4FB6E14E2C1ECBFD00F62070 /* ShapesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesBootcamp.swift; sourceTree = "<group>"; };
+		4FB6E1942C21BAE300F62070 /* ColorsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,10 +100,13 @@
 		4FB6E11D2C1EC44300F62070 /* SwiftUIBootcamp */ = {
 			isa = PBXGroup;
 			children = (
+				4FB6E14A2C1EC48200F62070 /* TextBootcamp.swift */,
 				4FB6E11E2C1EC44300F62070 /* SwiftUIBootcampApp.swift */,
 				4FB6E1202C1EC44300F62070 /* ContentView.swift */,
 				4FB6E1222C1EC44500F62070 /* Assets.xcassets */,
 				4FB6E1242C1EC44500F62070 /* Preview Content */,
+				4FB6E14E2C1ECBFD00F62070 /* ShapesBootcamp.swift */,
+				4FB6E1942C21BAE300F62070 /* ColorsBootcamp.swift */,
 			);
 			path = SwiftUIBootcamp;
 			sourceTree = "<group>";
@@ -257,7 +266,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4FB6E1952C21BAE300F62070 /* ColorsBootcamp.swift in Sources */,
+				4FB6E14F2C1ECBFD00F62070 /* ShapesBootcamp.swift in Sources */,
 				4FB6E1212C1EC44300F62070 /* ContentView.swift in Sources */,
+				4FB6E14B2C1EC48900F62070 /* TextBootcamp.swift in Sources */,
 				4FB6E11F2C1EC44300F62070 /* SwiftUIBootcampApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
