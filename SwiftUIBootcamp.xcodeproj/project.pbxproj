@@ -21,6 +21,7 @@
 		4FB6E1952C21BAE300F62070 /* ColorsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FB6E1942C21BAE300F62070 /* ColorsBootcamp.swift */; };
 		4FD5C4D42C27D5A400CA9EA6 /* IconsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FD5C4D32C27D5A400CA9EA6 /* IconsBootcamp.swift */; };
 		4FD5C4D62C27E8AA00CA9EA6 /* ImageBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FD5C4D52C27E8AA00CA9EA6 /* ImageBootcamp.swift */; };
+		4FD5C4D82C27ED6200CA9EA6 /* FrameBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FD5C4D72C27ED6200CA9EA6 /* FrameBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,6 +59,7 @@
 		4FB6E1942C21BAE300F62070 /* ColorsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsBootcamp.swift; sourceTree = "<group>"; };
 		4FD5C4D32C27D5A400CA9EA6 /* IconsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconsBootcamp.swift; sourceTree = "<group>"; };
 		4FD5C4D52C27E8AA00CA9EA6 /* ImageBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageBootcamp.swift; sourceTree = "<group>"; };
+		4FD5C4D72C27ED6200CA9EA6 /* FrameBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 				4FB6E11E2C1EC44300F62070 /* SwiftUIBootcampApp.swift */,
 				4FD5C4D32C27D5A400CA9EA6 /* IconsBootcamp.swift */,
 				4FD5C4D52C27E8AA00CA9EA6 /* ImageBootcamp.swift */,
+				4FD5C4D72C27ED6200CA9EA6 /* FrameBootcamp.swift */,
 			);
 			path = Bootcamp;
 			sourceTree = "<group>";
@@ -294,6 +297,7 @@
 				4FB6E1212C1EC44300F62070 /* ContentView.swift in Sources */,
 				4FB6E14B2C1EC48900F62070 /* TextBootcamp.swift in Sources */,
 				4FB6E11F2C1EC44300F62070 /* SwiftUIBootcampApp.swift in Sources */,
+				4FD5C4D82C27ED6200CA9EA6 /* FrameBootcamp.swift in Sources */,
 				4FD5C4D42C27D5A400CA9EA6 /* IconsBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
