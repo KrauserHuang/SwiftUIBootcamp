@@ -20,6 +20,7 @@
 		4FB6E14F2C1ECBFD00F62070 /* ShapesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FB6E14E2C1ECBFD00F62070 /* ShapesBootcamp.swift */; };
 		4FB6E1952C21BAE300F62070 /* ColorsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FB6E1942C21BAE300F62070 /* ColorsBootcamp.swift */; };
 		4FD5C4D42C27D5A400CA9EA6 /* IconsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FD5C4D32C27D5A400CA9EA6 /* IconsBootcamp.swift */; };
+		4FD5C4D62C27E8AA00CA9EA6 /* ImageBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FD5C4D52C27E8AA00CA9EA6 /* ImageBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,6 +57,7 @@
 		4FB6E14E2C1ECBFD00F62070 /* ShapesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesBootcamp.swift; sourceTree = "<group>"; };
 		4FB6E1942C21BAE300F62070 /* ColorsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsBootcamp.swift; sourceTree = "<group>"; };
 		4FD5C4D32C27D5A400CA9EA6 /* IconsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconsBootcamp.swift; sourceTree = "<group>"; };
+		4FD5C4D52C27E8AA00CA9EA6 /* ImageBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +95,7 @@
 				4F953A902C26A11600B61AE9 /* StateBootcamp.swift */,
 				4FB6E11E2C1EC44300F62070 /* SwiftUIBootcampApp.swift */,
 				4FD5C4D32C27D5A400CA9EA6 /* IconsBootcamp.swift */,
+				4FD5C4D52C27E8AA00CA9EA6 /* ImageBootcamp.swift */,
 			);
 			path = Bootcamp;
 			sourceTree = "<group>";
@@ -284,6 +287,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4F953A912C26A11600B61AE9 /* StateBootcamp.swift in Sources */,
+				4FD5C4D62C27E8AA00CA9EA6 /* ImageBootcamp.swift in Sources */,
 				4F953A8C2C2689D500B61AE9 /* GradientsBootcamp.swift in Sources */,
 				4FB6E1952C21BAE300F62070 /* ColorsBootcamp.swift in Sources */,
 				4FB6E14F2C1ECBFD00F62070 /* ShapesBootcamp.swift in Sources */,
