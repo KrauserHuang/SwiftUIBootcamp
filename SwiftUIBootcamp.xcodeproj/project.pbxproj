@@ -24,6 +24,7 @@
 		4FD5C4D82C27ED6200CA9EA6 /* FrameBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FD5C4D72C27ED6200CA9EA6 /* FrameBootcamp.swift */; };
 		4FD5C4DA2C27F2DB00CA9EA6 /* BackgroundAndOverlayBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FD5C4D92C27F2DB00CA9EA6 /* BackgroundAndOverlayBootcamp.swift */; };
 		4FD5C4DD2C2817B800CA9EA6 /* TabBarExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FD5C4DC2C2817B800CA9EA6 /* TabBarExample.swift */; };
+		4FE77A152C44AA6000F3D6B5 /* StacksBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FE77A142C44AA6000F3D6B5 /* StacksBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -64,6 +65,7 @@
 		4FD5C4D72C27ED6200CA9EA6 /* FrameBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameBootcamp.swift; sourceTree = "<group>"; };
 		4FD5C4D92C27F2DB00CA9EA6 /* BackgroundAndOverlayBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundAndOverlayBootcamp.swift; sourceTree = "<group>"; };
 		4FD5C4DC2C2817B800CA9EA6 /* TabBarExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarExample.swift; sourceTree = "<group>"; };
+		4FE77A142C44AA6000F3D6B5 /* StacksBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				4FD5C4D52C27E8AA00CA9EA6 /* ImageBootcamp.swift */,
 				4FD5C4D72C27ED6200CA9EA6 /* FrameBootcamp.swift */,
 				4FD5C4D92C27F2DB00CA9EA6 /* BackgroundAndOverlayBootcamp.swift */,
+				4FE77A142C44AA6000F3D6B5 /* StacksBootcamp.swift */,
 			);
 			path = Bootcamp;
 			sourceTree = "<group>";
@@ -313,6 +316,7 @@
 				4FD5C4DA2C27F2DB00CA9EA6 /* BackgroundAndOverlayBootcamp.swift in Sources */,
 				4FB6E11F2C1EC44300F62070 /* SwiftUIBootcampApp.swift in Sources */,
 				4FD5C4D82C27ED6200CA9EA6 /* FrameBootcamp.swift in Sources */,
+				4FE77A152C44AA6000F3D6B5 /* StacksBootcamp.swift in Sources */,
 				4FD5C4DD2C2817B800CA9EA6 /* TabBarExample.swift in Sources */,
 				4FD5C4D42C27D5A400CA9EA6 /* IconsBootcamp.swift in Sources */,
 			);
